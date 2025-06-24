@@ -5,7 +5,7 @@ Paste the .ini files in a directory of choice (ex.: C:\Program Files\Notepad3\),
 
 # Screenshots
 Dark theme
-[VSCodeDarkModern](VSCodeDarkModern.png)
+![VSCodeDarkModern](VSCodeDarkModern.png)
 
 Light theme
-[VSCodeLightModern](VSCodeLightModern.png)
+![VSCodeLightModern](VSCodeLightModern.png)
